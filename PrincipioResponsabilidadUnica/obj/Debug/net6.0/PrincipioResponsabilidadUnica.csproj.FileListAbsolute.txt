@@ -1,0 +1,17 @@
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\bin\Debug\net6.0\PrincipioResponsabilidadUnica.exe
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\bin\Debug\net6.0\PrincipioResponsabilidadUnica.deps.json
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\bin\Debug\net6.0\PrincipioResponsabilidadUnica.runtimeconfig.json
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\bin\Debug\net6.0\PrincipioResponsabilidadUnica.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\bin\Debug\net6.0\PrincipioResponsabilidadUnica.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\bin\Debug\net6.0\Serilog.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\refint\PrincipioResponsabilidadUnica.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\PrincipioResponsabilidadUnica.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioResponsabilidadUnica\PrincipioResponsabilidadUnica\obj\Debug\net6.0\ref\PrincipioResponsabilidadUnica.dll
